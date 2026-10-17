@@ -1,0 +1,6 @@
+{
+  "name": "KBC Mobile",
+  "description": "KBC bankapp voor kijken van saldo, betalingen en API certificaten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
